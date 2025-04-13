@@ -1,0 +1,1 @@
+document.getElementById('app').innerHTML = '<h1>Welcome to Whitebox AI</h1><p>Chat UI is loading...</p>';
