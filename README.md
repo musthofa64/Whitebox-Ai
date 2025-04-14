@@ -1,3 +1,11 @@
-# Whitebox AI
+# Whitebox AI Chatbot (Netlify + GPT-4)
 
-This is a ready-to-deploy AI chatbot frontend. Connect it to your GPT-4 backend and deploy on Vercel or Netlify.
+## Cara Deploy
+
+1. Upload semua file ini ke GitHub.
+2. Hubungkan GitHub ke Netlify.
+3. Tambahkan environment variable:
+
+OPENAI_API_KEY=sk-xxxxxx
+
+4. Deploy → Chatbot akan aktif!
